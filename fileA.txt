@@ -8,4 +8,8 @@ The user that commits to github must belong to the groups that the
 youtrack listener (admin config) listens to.
 
 
+Not working:
 work developemnt 2h "Configured youtrack-github" integration
+
+
+work development 2h "Configured youtrack-github" integration
