@@ -4,3 +4,7 @@ Another comment.  #SAND-1015 Done
 
 Changing got config local user.name and user.email the same as youtrack.
 
+The user that commits to github must belong to the groups that the
+youtrack listener (admin config) listens to.
+
+
