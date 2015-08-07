@@ -13,3 +13,6 @@ work developemnt 2h "Configured youtrack-github" integration
 
 
 work development 2h "Configured youtrack-github" integration
+
+
+Changed Assignee to mieron.
